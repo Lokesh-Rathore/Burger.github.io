@@ -1,0 +1,294 @@
+.bdy-div1{
+  position: relative;
+  bottom: 390px;
+}
+h5{
+  color: #fff;
+}
+p{
+  color: rgb(129, 129, 129);
+  font-size: 1rem;
+}
+
+
+
+/* updated navbar */
+nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  padding-top: 10px 90px;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0);
+  z-index: 0;
+}
+nav .logo{
+  font-family: "monsterrat";
+  padding: 0px 0px 0px 200px;
+  height: 80px;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+}
+nav ul{
+  list-style: none;
+  float: center;
+  margin: 0;
+  padding: 0;
+  padding-top: 10px;
+  display: flex;
+}
+nav ul li a{
+  line-height: 80px;
+  font-family: "monstserrat";
+  color: rgb(90, 90, 90);
+  padding: 12px 50px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+nav ul li a:hover{
+  color: red;
+  border-radius: none;
+  text-decoration: none;
+}
+.division-1{
+  z-index: 1;
+  position: relative;
+  bottom: 450px;
+  left: 100px;
+  color: #fff;
+}
+.myButton2 {
+  
+	background-color:red;
+  color: #ffffff;
+	border:3px solid #ff0000;
+	display:inline-block;
+	cursor:pointer; 
+	font-family:Trebuchet MS;
+	font-size:16px;
+	font-weight:bold;
+	padding:15px 35px;  
+}
+.myButton2:hover {
+	background-color: rgba(0, 0, 0, 0.1);
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+.myButton2:active {
+	position:relative;
+	top:10px;
+}
+section{
+  z-index: -1;
+  width: 100%;
+  height: 90vh;
+  background: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/background-burgers-home-top.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 105%;
+}
+
+
+.nav-icons {
+  padding: 5%;
+}
+
+.bg-image{
+  background-image: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/background-burgers-home-top.jpg);
+  min-height: 680px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.navb{
+  position: relative;
+  left: 35px;
+  
+}
+.nav-link {
+  font-family: montserrate-bold;
+  text-decoration-color: white;
+}
+.nav-link:hover {
+  background-color: red;
+}
+/* div-4-img */
+.div-4-img{
+  size: 40px;
+}
+
+/* division-2 */
+.division-2{
+  padding: 50px;
+  background-color: red;
+}
+.div-2-images{
+  padding-bottom: 20px;
+}
+
+/* .division-3 */
+.division-3{
+  padding: 180px;
+  background-color: rgb(255, 255, 255);
+  border-width: 20px;
+  border-color: black;
+}
+
+.myButton {
+  
+	background-color:#ffffff;
+  color: #ff0000;
+	border:3px solid #ff0000;
+	display:inline-block;
+	cursor:pointer; 
+	font-family:Trebuchet MS;
+	font-size:16px;
+	font-weight:bold;
+	padding:15px 35px;  
+}
+.myButton:hover {
+	background-color:#ff0000;
+  color: #fff;
+  text-decoration: none;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+/* division-4  */
+h2{
+  font-family: "monsterrat-bold";
+  font-size: 4rem;
+  color: #fff;
+  position: relative;
+  top: 130px;
+  left: 130px;
+}
+.div-4-p {
+  position: relative;
+  color: #fff;
+  top: 130px;
+  padding-right: 5px;
+}
+.division-4-1{
+  text-align: left;
+  background-image: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/cell-background-burger-left-1.jpg);
+  background-repeat: no-repeat;
+  width: 770px;
+  height: 810px;
+  
+}
+.division-4-2{
+  background-image: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/cell-background-burger-right-1.jpg);
+  background-repeat: no-repeat;
+  width: 755px;
+  height: 810px;
+  text-align: left;
+}
+
+.division-4-3{
+  background-image: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/cell-background-burger-left-2.jpg);
+  background-repeat: no-repeat;
+  width: 770px;
+  height: 810px;
+  text-align: left;
+}
+.division-4-4{
+  background-image: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/cell-background-burger-right-2.jpg);
+  background-repeat: no-repeat;
+  width: 755px;
+  height: 810px;
+  text-align: left;
+}
+.division-4-5{
+  background-image: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/cell-background-burger-left-3.jpg);
+  background-repeat: no-repeat;
+  width: 770px;
+  height: 810px;
+  text-align: left;
+}
+.division-4-6{
+  background-image: url(http://fast-food.bold-themes.com/main-demo/wp-content/uploads/sites/2/2017/01/cell-background-burger-right-3.jpg);
+  background-repeat: no-repeat;
+  width: 755px;
+  height: 810px;
+  text-align: left;
+}
+.myButton3 {
+  position: relative;
+  top: 50px;
+  left: 130px;
+	background-color:rgba(0, 0, 0, 0.1);
+  color: #ffffff;
+	border:3px solid #ffffff;
+	display:inline-block;
+	cursor:pointer; 
+	font-family:Trebuchet MS;
+	font-size:16px;
+	font-weight:bold;
+	padding:15px 35px;  
+}
+.myButton3:hover {
+	background-color:#ffffff;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+
+
+  /* division-6 */
+  
+ 
+
+  .myButton1 {
+  
+    background-color:red;
+    color: #fff;
+    border:3px solid #fff;
+    display:inline-block;
+    cursor:pointer; 
+    font-family:Trebuchet MS;
+    font-size:20px;
+    padding: 10px 30px;
+  }
+  .myButton1:hover {
+    background-color:#fff;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  .myButton1:active {
+    position:relative;
+    top:1px;
+  }
+.div-6-h1{
+  position: relative;
+  top: 40px;
+}
+.div-6-btn{
+  position: relative;
+  bottom: 40px;
+}
+
+/* division-7 */
+#footer{
+  padding-top: 15px 30px 0px;
+  background-color: #fff;
+  padding: 60px 0px;
+  
+}
+.social-icon{
+  padding: 20px;
+
+}
+.social-icon:hover{
+    color: #000000;
+}
+
